@@ -39,6 +39,6 @@ If you are aware of papers in this topic (even those that are in ArXiv), please 
 
   _Zeyu  Xiao, Zhiwei  Xiong , Xueyang  Fu, Dong  Liu, Zhengjun  Zha_
   
-  ACM MM'20 [Paper](https://dl.acm.org/doi/10.1145/3394171.3413667)
+  ACM MM'20 [Paper](https://xueyangfu.github.io/paper/2020/MM.pdf)
 
 ### 2019
