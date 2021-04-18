@@ -1,7 +1,8 @@
 # Awesome-Space-Time-Video-Super-Resolution
 A List of Recent Space-Time Video Super-Resolution methods.
 
-If you are aware of papers in this topic (even those that are in ArXiv), please let me know in the issues. I will post them.
+If you are aware of papers in this topic (even those that are in ArXiv), please let me know in "Issues" section. I will post them.
+Also let me know additional information about listed papers (project page, code repository etc.) in "Issues" section.
 
 ### 2021
 [1] Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution
