@@ -15,6 +15,8 @@ Also let me know additional information about listed papers (project page, code 
 
 _Zhihao Shi, Chengqi Li, Linhui Dai, Xiaohong Liu, Jun Chen, Timothy N. Davidson_
 
+[ArXiv](https://arxiv.org/pdf/2102.13011.pdf)
+
 ### 2020
 [1] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
 
