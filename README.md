@@ -10,6 +10,10 @@ Also let me know additional information about listed papers (project page, code 
   _Min-Yuan Tseng, Yen-Chung Chen, Yi-Lun Lee, Wei-Sheng Lai, Yi-Hsuan Tsai, Wei-Chen Chiu_
   
   WACV'21 [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.pdf)
+  
+[2] Learning for Unconstrained Space-Time Video Super-Resolution 
+
+_Zhihao Shi, Chengqi Li, Linhui Dai, Xiaohong Liu, Jun Chen, Timothy N. Davidson_
 
 ### 2020
 [1] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
