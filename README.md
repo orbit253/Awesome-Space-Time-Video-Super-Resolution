@@ -17,6 +17,12 @@ _Zhihao Shi, Chengqi Li, Linhui Dai, Xiaohong Liu, Jun Chen, Timothy N. Davidson
 
 [ArXiv](https://arxiv.org/pdf/2102.13011.pdf)
 
+[3] Temporal Modulation Network for Controllable Space-Time Video Super-Resolution
+
+_Gang Xu, Jun Xu, Zhen Li, Liang Wang, Xing Sun, Ming-Ming Cheng_
+
+[Link](http://mftp.mmcheng.net/Papers/21CVPR-VideoSR.pdf)
+
 ### 2020
 [1] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
 
