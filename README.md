@@ -9,7 +9,7 @@ Also let me know additional information about listed papers (project page, code 
 
   _Min-Yuan Tseng, Yen-Chung Chen, Yi-Lun Lee, Wei-Sheng Lai, Yi-Hsuan Tsai, Wei-Chen Chiu_
   
-  WACV'21 [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.pdf)
+  WACV'21 [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.pdf) [Code](https://github.com/TMYuan/Dual-Stream-Fusion-Network)
   
 [2] Learning for Unconstrained Space-Time Video Super-Resolution 
 
@@ -21,7 +21,20 @@ _Zhihao Shi, Chengqi Li, Linhui Dai, Xiaohong Liu, Jun Chen, Timothy N. Davidson
 
 _Gang Xu, Jun Xu, Zhen Li, Liang Wang, Xing Sun, Ming-Ming Cheng_
 
-[Link](http://mftp.mmcheng.net/Papers/21CVPR-VideoSR.pdf)
+CVPR'21 [ArXiv](https://arxiv.org/abs/2104.10642) [Code](https://github.com/CS-GangXu/TMNet)
+
+[4] NTIRE 2021 Challenge on Video Super-Resolution
+
+_Sanghyun Son, Suyoung Lee, Seungjun Nah, Radu Timofte, Kyoung Mu Lee_
+
+NTIRE workshop, CVPR'21 [ArXiv](https://arxiv.org/abs/2104.14852)
+
+[5] Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling
+
+_Saikat Dutta, Nisarg A. Shah, Anurag Mittal_
+
+NTIRE workshop, CVPR'21 [ArXiv](https://arxiv.org/abs/2104.05778)
+
 
 ### 2020
 [1] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
