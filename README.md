@@ -35,6 +35,11 @@ _Saikat Dutta, Nisarg A. Shah, Anurag Mittal_
 
 NTIRE workshop, CVPR'21 [ArXiv](https://arxiv.org/abs/2104.05778)
 
+[6] Space-time super-resolution with motion-perceptive deformable alignment
+
+_Zhuojun Cai, Xiang Tian, Ze Chen, Yaowu Chen_
+
+Journal of Electronic Imaging [Paper](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-30/issue-3/033020/Space-time-super-resolution-with-motion-perceptive-deformable-alignment/10.1117/1.JEI.30.3.033020.short)
 
 ### 2020
 [1] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
