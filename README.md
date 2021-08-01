@@ -33,13 +33,22 @@ NTIRE workshop, CVPR'21 [ArXiv](https://arxiv.org/abs/2104.14852)
 
 _Saikat Dutta, Nisarg A. Shah, Anurag Mittal_
 
-NTIRE workshop, CVPR'21 [ArXiv](https://arxiv.org/abs/2104.05778)
+NTIRE workshop, CVPR'21 [ArXiv](https://arxiv.org/abs/2104.05778) [Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Dutta_Efficient_Space-Time_Video_Super_Resolution_Using_Low-Resolution_Flow_and_Mask_CVPRW_2021_paper.html) [Code](https://github.com/saikatdutta/FMU_STSR)
 
 [6] Space-time super-resolution with motion-perceptive deformable alignment
 
 _Zhuojun Cai, Xiang Tian, Ze Chen, Yaowu Chen_
 
 Journal of Electronic Imaging [Paper](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-30/issue-3/033020/Space-time-super-resolution-with-motion-perceptive-deformable-alignment/10.1117/1.JEI.30.3.033020.short)
+
+[7] STSRNet: Deep Joint Space-Time Super-Resolution for Vector Field Visualization
+
+_Yifei An, Han-Wei Shen, Guihua Shan, Guan Li, Jun Liu _
+
+IEEE Computer Graphics and Applications [Paper](https://ieeexplore.ieee.org/abstract/document/9488227)
+
+
+
 
 ### 2020
 [1] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
