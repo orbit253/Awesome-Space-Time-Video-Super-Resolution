@@ -43,12 +43,15 @@ Journal of Electronic Imaging [Paper](https://www.spiedigitallibrary.org/journal
 
 [7] STSRNet: Deep Joint Space-Time Super-Resolution for Vector Field Visualization
 
-_Yifei An, Han-Wei Shen, Guihua Shan, Guan Li, Jun Liu _
+_Yifei An, Han-Wei Shen, Guihua Shan, Guan Li, Jun Liu_
 
 IEEE Computer Graphics and Applications [Paper](https://ieeexplore.ieee.org/abstract/document/9488227)
 
+[8] MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution
 
+_Chenyu You, Lianyi Han, Aosong Feng, Ruihan Zhao, Hui Tang, Wei Fan_
 
+[ArXiv](https://arxiv.org/abs/2110.15327)
 
 ### 2020
 [1] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
